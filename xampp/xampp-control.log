@@ -1,0 +1,472 @@
+10:33:55  [main] 	Initializing Control Panel
+10:33:55  [main] 	Windows Version:  Home  64-bit
+10:33:55  [main] 	XAMPP Version: 7.3.14
+10:33:55  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:33:55  [main] 	You are not running with administrator rights! This will work for
+10:33:55  [main] 	most application stuff but whenever you do something with services
+10:33:55  [main] 	there will be a security dialogue or things will break! So think 
+10:33:55  [main] 	about running this application with administrator rights!
+10:33:55  [main] 	XAMPP Installation Directory: "c:\users\jaime\onedrive\escritorio\portable\xampp-portable-windows-x64-7.3.14-0-vc15\xampp\"
+10:33:55  [main] 	Checking for prerequisites
+10:33:57  [main] 	All prerequisites found
+10:33:57  [main] 	Initializing Modules
+10:33:57  [main] 	The FileZilla module is disabled
+10:33:57  [main] 	The Mercury module is disabled
+10:33:57  [main] 	Starting Check-Timer
+10:33:57  [main] 	Control Panel Ready
+10:33:59  [Apache] 	Attempting to start Apache app...
+10:33:59  [Apache] 	Status change detected: running
+10:34:01  [mysql] 	Attempting to start MySQL app...
+10:34:01  [mysql] 	Status change detected: running
+10:34:16  [mysql] 	Attempting to stop MySQL app...
+10:34:16  [mysql] 	Status change detected: stopped
+10:34:17  [Apache] 	Attempting to stop Apache (PID: 7056)
+10:34:17  [Apache] 	Attempting to stop Apache (PID: 23228)
+10:34:17  [Apache] 	Status change detected: stopped
+11:16:03  [main] 	Deinitializing Modules
+11:16:03  [main] 	Deinitializing Control Panel
+
+11:50:52  [main] 	Initializing Control Panel
+11:50:52  [main] 	Windows Version:  Home  64-bit
+11:50:52  [main] 	XAMPP Version: 7.3.14
+11:50:52  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:50:52  [main] 	You are not running with administrator rights! This will work for
+11:50:52  [main] 	most application stuff but whenever you do something with services
+11:50:52  [main] 	there will be a security dialogue or things will break! So think 
+11:50:52  [main] 	about running this application with administrator rights!
+11:50:52  [main] 	XAMPP Installation Directory: "c:\users\jaime\onedrive\escritorio\portable\xampp\"
+11:50:52  [main] 	Checking for prerequisites
+11:50:52  [main] 	All prerequisites found
+11:50:52  [main] 	Initializing Modules
+11:50:52  [main] 	The FileZilla module is disabled
+11:50:52  [main] 	The Mercury module is disabled
+11:50:52  [main] 	Starting Check-Timer
+11:50:52  [main] 	Control Panel Ready
+15:03:38  [Apache] 	Status change detected: running
+15:04:21  [Apache] 	Status change detected: stopped
+15:04:21  [Apache] 	Error: Apache shutdown unexpectedly.
+15:04:21  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:04:21  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:04:21  [Apache] 	Press the Logs button to view error logs and check
+15:04:21  [Apache] 	the Windows Event Viewer for more clues
+15:04:21  [Apache] 	If you need more help, copy and post this
+15:04:21  [Apache] 	entire log window on the forums
+15:06:03  [Apache] 	Status change detected: running
+15:06:38  [Apache] 	Status change detected: stopped
+15:06:38  [Apache] 	Error: Apache shutdown unexpectedly.
+15:06:38  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:06:38  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:06:38  [Apache] 	Press the Logs button to view error logs and check
+15:06:38  [Apache] 	the Windows Event Viewer for more clues
+15:06:38  [Apache] 	If you need more help, copy and post this
+15:06:38  [Apache] 	entire log window on the forums
+15:07:15  [Apache] 	Status change detected: running
+15:08:33  [Apache] 	Status change detected: stopped
+15:08:33  [Apache] 	Error: Apache shutdown unexpectedly.
+15:08:33  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:08:33  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:08:33  [Apache] 	Press the Logs button to view error logs and check
+15:08:33  [Apache] 	the Windows Event Viewer for more clues
+15:08:33  [Apache] 	If you need more help, copy and post this
+15:08:33  [Apache] 	entire log window on the forums
+15:08:34  [Apache] 	Status change detected: running
+15:09:18  [Apache] 	Status change detected: stopped
+15:09:18  [Apache] 	Error: Apache shutdown unexpectedly.
+15:09:18  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:09:18  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:09:18  [Apache] 	Press the Logs button to view error logs and check
+15:09:18  [Apache] 	the Windows Event Viewer for more clues
+15:09:18  [Apache] 	If you need more help, copy and post this
+15:09:18  [Apache] 	entire log window on the forums
+15:09:20  [Apache] 	Status change detected: running
+15:09:53  [Apache] 	Status change detected: stopped
+15:09:53  [Apache] 	Error: Apache shutdown unexpectedly.
+15:09:53  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:09:53  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:09:53  [Apache] 	Press the Logs button to view error logs and check
+15:09:53  [Apache] 	the Windows Event Viewer for more clues
+15:09:53  [Apache] 	If you need more help, copy and post this
+15:09:53  [Apache] 	entire log window on the forums
+15:09:54  [Apache] 	Status change detected: running
+15:10:29  [Apache] 	Status change detected: stopped
+15:10:29  [Apache] 	Error: Apache shutdown unexpectedly.
+15:10:29  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:10:29  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:10:29  [Apache] 	Press the Logs button to view error logs and check
+15:10:29  [Apache] 	the Windows Event Viewer for more clues
+15:10:29  [Apache] 	If you need more help, copy and post this
+15:10:29  [Apache] 	entire log window on the forums
+15:10:30  [Apache] 	Status change detected: running
+15:13:55  [Apache] 	Status change detected: stopped
+15:13:55  [Apache] 	Error: Apache shutdown unexpectedly.
+15:13:55  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:13:55  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:13:55  [Apache] 	Press the Logs button to view error logs and check
+15:13:55  [Apache] 	the Windows Event Viewer for more clues
+15:13:55  [Apache] 	If you need more help, copy and post this
+15:13:55  [Apache] 	entire log window on the forums
+15:30:45  [Apache] 	Status change detected: running
+15:33:34  [Apache] 	Status change detected: stopped
+15:33:34  [Apache] 	Error: Apache shutdown unexpectedly.
+15:33:34  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:33:34  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:33:34  [Apache] 	Press the Logs button to view error logs and check
+15:33:34  [Apache] 	the Windows Event Viewer for more clues
+15:33:34  [Apache] 	If you need more help, copy and post this
+15:33:34  [Apache] 	entire log window on the forums
+15:38:58  [main] 	Deinitializing Modules
+15:38:58  [main] 	Deinitializing Control Panel
+
+11:34:44  [main] 	Initializing Control Panel
+11:34:44  [main] 	Windows Version:  Home  64-bit
+11:34:44  [main] 	XAMPP Version: 7.3.14
+11:34:44  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:34:44  [main] 	You are not running with administrator rights! This will work for
+11:34:44  [main] 	most application stuff but whenever you do something with services
+11:34:44  [main] 	there will be a security dialogue or things will break! So think 
+11:34:44  [main] 	about running this application with administrator rights!
+11:34:44  [main] 	XAMPP Installation Directory: "c:\users\jaime\onedrive\escritorio\portable\xampp\"
+11:34:44  [main] 	Checking for prerequisites
+11:34:44  [main] 	All prerequisites found
+11:34:44  [main] 	Initializing Modules
+11:34:44  [main] 	The FileZilla module is disabled
+11:34:44  [main] 	The Mercury module is disabled
+11:34:44  [main] 	Starting Check-Timer
+11:34:44  [main] 	Control Panel Ready
+11:35:20  [Apache] 	Status change detected: running
+11:40:42  [Apache] 	Status change detected: stopped
+11:40:43  [Apache] 	Error: Apache shutdown unexpectedly.
+11:40:43  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:40:43  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:40:43  [Apache] 	Press the Logs button to view error logs and check
+11:40:43  [Apache] 	the Windows Event Viewer for more clues
+11:40:43  [Apache] 	If you need more help, copy and post this
+11:40:43  [Apache] 	entire log window on the forums
+11:40:49  [Apache] 	Status change detected: running
+11:42:25  [Apache] 	Status change detected: stopped
+11:42:25  [Apache] 	Error: Apache shutdown unexpectedly.
+11:42:25  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:42:25  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:42:25  [Apache] 	Press the Logs button to view error logs and check
+11:42:25  [Apache] 	the Windows Event Viewer for more clues
+11:42:25  [Apache] 	If you need more help, copy and post this
+11:42:25  [Apache] 	entire log window on the forums
+11:42:26  [Apache] 	Status change detected: running
+11:44:21  [Apache] 	Status change detected: stopped
+11:44:21  [Apache] 	Error: Apache shutdown unexpectedly.
+11:44:21  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:44:21  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:44:21  [Apache] 	Press the Logs button to view error logs and check
+11:44:21  [Apache] 	the Windows Event Viewer for more clues
+11:44:21  [Apache] 	If you need more help, copy and post this
+11:44:21  [Apache] 	entire log window on the forums
+11:44:22  [Apache] 	Status change detected: running
+11:50:40  [Apache] 	Status change detected: stopped
+11:50:40  [Apache] 	Error: Apache shutdown unexpectedly.
+11:50:40  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:50:40  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:50:40  [Apache] 	Press the Logs button to view error logs and check
+11:50:40  [Apache] 	the Windows Event Viewer for more clues
+11:50:40  [Apache] 	If you need more help, copy and post this
+11:50:40  [Apache] 	entire log window on the forums
+15:03:38  [Apache] 	Status change detected: running
+15:04:21  [Apache] 	Status change detected: stopped
+15:04:21  [Apache] 	Error: Apache shutdown unexpectedly.
+15:04:21  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:04:21  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:04:21  [Apache] 	Press the Logs button to view error logs and check
+15:04:21  [Apache] 	the Windows Event Viewer for more clues
+15:04:21  [Apache] 	If you need more help, copy and post this
+15:04:21  [Apache] 	entire log window on the forums
+15:06:03  [Apache] 	Status change detected: running
+15:06:38  [Apache] 	Status change detected: stopped
+15:06:38  [Apache] 	Error: Apache shutdown unexpectedly.
+15:06:38  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:06:38  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:06:38  [Apache] 	Press the Logs button to view error logs and check
+15:06:38  [Apache] 	the Windows Event Viewer for more clues
+15:06:38  [Apache] 	If you need more help, copy and post this
+15:06:38  [Apache] 	entire log window on the forums
+15:07:15  [Apache] 	Status change detected: running
+15:08:33  [Apache] 	Status change detected: stopped
+15:08:33  [Apache] 	Error: Apache shutdown unexpectedly.
+15:08:33  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:08:33  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:08:33  [Apache] 	Press the Logs button to view error logs and check
+15:08:33  [Apache] 	the Windows Event Viewer for more clues
+15:08:33  [Apache] 	If you need more help, copy and post this
+15:08:33  [Apache] 	entire log window on the forums
+15:08:34  [Apache] 	Status change detected: running
+15:09:18  [Apache] 	Status change detected: stopped
+15:09:18  [Apache] 	Error: Apache shutdown unexpectedly.
+15:09:18  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:09:18  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:09:18  [Apache] 	Press the Logs button to view error logs and check
+15:09:18  [Apache] 	the Windows Event Viewer for more clues
+15:09:18  [Apache] 	If you need more help, copy and post this
+15:09:18  [Apache] 	entire log window on the forums
+15:09:20  [Apache] 	Status change detected: running
+15:09:53  [Apache] 	Status change detected: stopped
+15:09:53  [Apache] 	Error: Apache shutdown unexpectedly.
+15:09:53  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:09:53  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:09:53  [Apache] 	Press the Logs button to view error logs and check
+15:09:53  [Apache] 	the Windows Event Viewer for more clues
+15:09:53  [Apache] 	If you need more help, copy and post this
+15:09:53  [Apache] 	entire log window on the forums
+15:09:54  [Apache] 	Status change detected: running
+15:10:29  [Apache] 	Status change detected: stopped
+15:10:29  [Apache] 	Error: Apache shutdown unexpectedly.
+15:10:29  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:10:29  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:10:29  [Apache] 	Press the Logs button to view error logs and check
+15:10:29  [Apache] 	the Windows Event Viewer for more clues
+15:10:29  [Apache] 	If you need more help, copy and post this
+15:10:29  [Apache] 	entire log window on the forums
+15:10:30  [Apache] 	Status change detected: running
+15:13:55  [Apache] 	Status change detected: stopped
+15:13:55  [Apache] 	Error: Apache shutdown unexpectedly.
+15:13:55  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:13:55  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:13:55  [Apache] 	Press the Logs button to view error logs and check
+15:13:55  [Apache] 	the Windows Event Viewer for more clues
+15:13:55  [Apache] 	If you need more help, copy and post this
+15:13:55  [Apache] 	entire log window on the forums
+15:30:45  [Apache] 	Status change detected: running
+15:33:34  [Apache] 	Status change detected: stopped
+15:33:34  [Apache] 	Error: Apache shutdown unexpectedly.
+15:33:34  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:33:34  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:33:34  [Apache] 	Press the Logs button to view error logs and check
+15:33:34  [Apache] 	the Windows Event Viewer for more clues
+15:33:34  [Apache] 	If you need more help, copy and post this
+15:33:34  [Apache] 	entire log window on the forums
+15:39:00  [main] 	Deinitializing Modules
+15:39:00  [main] 	Deinitializing Control Panel
+
+11:35:17  [main] 	Initializing Control Panel
+11:35:17  [main] 	Windows Version:  Home  64-bit
+11:35:17  [main] 	XAMPP Version: 7.3.14
+11:35:17  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:35:17  [main] 	You are not running with administrator rights! This will work for
+11:35:17  [main] 	most application stuff but whenever you do something with services
+11:35:17  [main] 	there will be a security dialogue or things will break! So think 
+11:35:17  [main] 	about running this application with administrator rights!
+11:35:17  [main] 	XAMPP Installation Directory: "c:\users\jaime\onedrive\escritorio\portable\xampp\"
+11:35:17  [main] 	Checking for prerequisites
+11:35:18  [main] 	All prerequisites found
+11:35:18  [main] 	Initializing Modules
+11:35:18  [main] 	The FileZilla module is disabled
+11:35:18  [main] 	The Mercury module is disabled
+11:35:18  [main] 	Starting Check-Timer
+11:35:18  [main] 	Control Panel Ready
+11:35:19  [Apache] 	Attempting to start Apache app...
+11:35:20  [Apache] 	Status change detected: running
+11:40:42  [Apache] 	Attempting to stop Apache (PID: 18464)
+11:40:42  [Apache] 	Attempting to stop Apache (PID: 7392)
+11:40:42  [Apache] 	Status change detected: stopped
+11:40:49  [Apache] 	Attempting to start Apache app...
+11:40:49  [Apache] 	Status change detected: running
+11:42:25  [Apache] 	Attempting to stop Apache (PID: 8068)
+11:42:25  [Apache] 	Attempting to stop Apache (PID: 6612)
+11:42:25  [Apache] 	Status change detected: stopped
+11:42:26  [Apache] 	Attempting to start Apache app...
+11:42:26  [Apache] 	Status change detected: running
+11:44:21  [Apache] 	Attempting to stop Apache (PID: 6964)
+11:44:21  [Apache] 	Attempting to stop Apache (PID: 27228)
+11:44:21  [Apache] 	Status change detected: stopped
+11:44:21  [Apache] 	Attempting to start Apache app...
+11:44:22  [Apache] 	Status change detected: running
+11:50:39  [Apache] 	Attempting to stop Apache (PID: 6012)
+11:50:39  [Apache] 	Attempting to stop Apache (PID: 21152)
+11:50:40  [Apache] 	Status change detected: stopped
+15:03:38  [Apache] 	Status change detected: running
+15:04:21  [Apache] 	Status change detected: stopped
+15:06:03  [Apache] 	Status change detected: running
+15:06:38  [Apache] 	Status change detected: stopped
+15:07:15  [Apache] 	Status change detected: running
+15:08:33  [Apache] 	Status change detected: stopped
+15:08:34  [Apache] 	Status change detected: running
+15:09:18  [Apache] 	Status change detected: stopped
+15:09:20  [Apache] 	Status change detected: running
+15:09:53  [Apache] 	Status change detected: stopped
+15:09:54  [Apache] 	Status change detected: running
+15:10:29  [Apache] 	Status change detected: stopped
+15:10:30  [Apache] 	Status change detected: running
+15:13:55  [Apache] 	Status change detected: stopped
+15:30:45  [Apache] 	Status change detected: running
+15:33:34  [Apache] 	Status change detected: stopped
+15:39:01  [main] 	Deinitializing Modules
+15:39:01  [main] 	Deinitializing Control Panel
+
+15:03:30  [main] 	Initializing Control Panel
+15:03:30  [main] 	Windows Version:  Home  64-bit
+15:03:30  [main] 	XAMPP Version: 7.3.14
+15:03:30  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:03:30  [main] 	You are not running with administrator rights! This will work for
+15:03:30  [main] 	most application stuff but whenever you do something with services
+15:03:30  [main] 	there will be a security dialogue or things will break! So think 
+15:03:30  [main] 	about running this application with administrator rights!
+15:03:30  [main] 	XAMPP Installation Directory: "c:\users\jaime\onedrive\escritorio\portable\xampp\"
+15:03:30  [main] 	Checking for prerequisites
+15:03:30  [main] 	All prerequisites found
+15:03:30  [main] 	Initializing Modules
+15:03:30  [main] 	The FileZilla module is disabled
+15:03:30  [main] 	The Mercury module is disabled
+15:03:30  [main] 	Starting Check-Timer
+15:03:30  [main] 	Control Panel Ready
+15:03:38  [Apache] 	Attempting to start Apache app...
+15:03:38  [Apache] 	Status change detected: running
+15:04:21  [Apache] 	Attempting to stop Apache (PID: 25936)
+15:04:21  [Apache] 	Attempting to stop Apache (PID: 4332)
+15:04:21  [Apache] 	Status change detected: stopped
+15:06:03  [Apache] 	Attempting to start Apache app...
+15:06:03  [Apache] 	Status change detected: running
+15:06:38  [Apache] 	Attempting to stop Apache (PID: 19240)
+15:06:38  [Apache] 	Attempting to stop Apache (PID: 23184)
+15:06:38  [Apache] 	Status change detected: stopped
+15:07:14  [Apache] 	Attempting to start Apache app...
+15:07:15  [Apache] 	Status change detected: running
+15:08:33  [Apache] 	Attempting to stop Apache (PID: 10436)
+15:08:33  [Apache] 	Attempting to stop Apache (PID: 24032)
+15:08:33  [Apache] 	Status change detected: stopped
+15:08:34  [Apache] 	Attempting to start Apache app...
+15:08:34  [Apache] 	Status change detected: running
+15:09:17  [Apache] 	Attempting to stop Apache (PID: 3120)
+15:09:17  [Apache] 	Attempting to stop Apache (PID: 21136)
+15:09:18  [Apache] 	Status change detected: stopped
+15:09:19  [Apache] 	Attempting to start Apache app...
+15:09:20  [Apache] 	Status change detected: running
+15:09:53  [Apache] 	Attempting to stop Apache (PID: 6536)
+15:09:53  [Apache] 	Attempting to stop Apache (PID: 5068)
+15:09:53  [Apache] 	Status change detected: stopped
+15:09:54  [Apache] 	Attempting to start Apache app...
+15:09:54  [Apache] 	Status change detected: running
+15:10:28  [Apache] 	Attempting to stop Apache (PID: 16628)
+15:10:28  [Apache] 	Attempting to stop Apache (PID: 14896)
+15:10:29  [Apache] 	Status change detected: stopped
+15:10:29  [Apache] 	Attempting to start Apache app...
+15:10:30  [Apache] 	Status change detected: running
+15:10:49  [main] 	Executing "c:\users\jaime\onedrive\escritorio\portable\xampp\php\logs"
+15:13:55  [Apache] 	Status change detected: stopped
+15:13:55  [Apache] 	Error: Apache shutdown unexpectedly.
+15:13:55  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:13:55  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:13:55  [Apache] 	Press the Logs button to view error logs and check
+15:13:55  [Apache] 	the Windows Event Viewer for more clues
+15:13:55  [Apache] 	If you need more help, copy and post this
+15:13:55  [Apache] 	entire log window on the forums
+15:30:45  [Apache] 	Status change detected: running
+15:33:34  [Apache] 	Status change detected: stopped
+15:33:34  [Apache] 	Error: Apache shutdown unexpectedly.
+15:33:34  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:33:34  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:33:34  [Apache] 	Press the Logs button to view error logs and check
+15:33:34  [Apache] 	the Windows Event Viewer for more clues
+15:33:34  [Apache] 	If you need more help, copy and post this
+15:33:34  [Apache] 	entire log window on the forums
+15:39:02  [main] 	Deinitializing Modules
+15:39:02  [main] 	Deinitializing Control Panel
+
+11:31:16  [main] 	Initializing Control Panel
+11:31:16  [main] 	Windows Version:  Home  64-bit
+11:31:16  [main] 	XAMPP Version: 7.3.14
+11:31:16  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:31:16  [main] 	You are not running with administrator rights! This will work for
+11:31:16  [main] 	most application stuff but whenever you do something with services
+11:31:16  [main] 	there will be a security dialogue or things will break! So think 
+11:31:16  [main] 	about running this application with administrator rights!
+11:31:16  [main] 	XAMPP Installation Directory: "c:\users\jaime\onedrive\escritorio\portable\xampp\"
+11:31:16  [main] 	Checking for prerequisites
+11:31:16  [main] 	All prerequisites found
+11:31:16  [main] 	Initializing Modules
+11:31:16  [main] 	The FileZilla module is disabled
+11:31:16  [main] 	The Mercury module is disabled
+11:31:16  [main] 	Starting Check-Timer
+11:31:16  [main] 	Control Panel Ready
+11:31:24  [Apache] 	Attempting to start Apache app...
+11:31:24  [Apache] 	Status change detected: running
+11:31:29  [mysql] 	Attempting to start MySQL app...
+11:31:29  [mysql] 	Status change detected: running
+11:33:15  [Apache] 	Attempting to stop Apache (PID: 12040)
+11:33:15  [Apache] 	Attempting to stop Apache (PID: 20616)
+11:33:15  [Apache] 	Status change detected: stopped
+11:33:16  [mysql] 	Attempting to stop MySQL app...
+11:33:16  [mysql] 	Status change detected: stopped
+11:35:20  [Apache] 	Status change detected: running
+11:40:42  [Apache] 	Status change detected: stopped
+11:40:49  [Apache] 	Status change detected: running
+11:42:25  [Apache] 	Status change detected: stopped
+11:42:26  [Apache] 	Status change detected: running
+11:44:21  [Apache] 	Status change detected: stopped
+11:44:22  [Apache] 	Status change detected: running
+11:50:40  [Apache] 	Status change detected: stopped
+15:03:38  [Apache] 	Status change detected: running
+15:04:21  [Apache] 	Status change detected: stopped
+15:06:03  [Apache] 	Status change detected: running
+15:06:38  [Apache] 	Status change detected: stopped
+15:07:15  [Apache] 	Status change detected: running
+15:08:33  [Apache] 	Status change detected: stopped
+15:08:34  [Apache] 	Status change detected: running
+15:09:18  [Apache] 	Status change detected: stopped
+15:09:20  [Apache] 	Status change detected: running
+15:09:53  [Apache] 	Status change detected: stopped
+15:09:54  [Apache] 	Status change detected: running
+15:10:29  [Apache] 	Status change detected: stopped
+15:10:30  [Apache] 	Status change detected: running
+15:13:55  [Apache] 	Status change detected: stopped
+15:30:45  [Apache] 	Status change detected: running
+15:33:34  [Apache] 	Status change detected: stopped
+15:39:03  [main] 	Deinitializing Modules
+15:39:03  [main] 	Deinitializing Control Panel
+
+15:13:52  [main] 	Initializing Control Panel
+15:13:52  [main] 	Windows Version:  Home  64-bit
+15:13:52  [main] 	XAMPP Version: 7.3.14
+15:13:52  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:13:52  [main] 	You are not running with administrator rights! This will work for
+15:13:52  [main] 	most application stuff but whenever you do something with services
+15:13:52  [main] 	there will be a security dialogue or things will break! So think 
+15:13:52  [main] 	about running this application with administrator rights!
+15:13:52  [main] 	XAMPP Installation Directory: "c:\users\jaime\onedrive\escritorio\portable\xampp\"
+15:13:53  [main] 	Checking for prerequisites
+15:13:53  [main] 	All prerequisites found
+15:13:53  [main] 	Initializing Modules
+15:13:53  [Apache] 	XAMPP Apache is already running on port 80
+15:13:53  [Apache] 	XAMPP Apache is already running on port 443
+15:13:53  [main] 	The FileZilla module is disabled
+15:13:53  [main] 	The Mercury module is disabled
+15:13:53  [main] 	Starting Check-Timer
+15:13:53  [main] 	Control Panel Ready
+15:13:55  [Apache] 	Attempting to stop Apache (PID: 15084)
+15:13:55  [Apache] 	Attempting to stop Apache (PID: 22548)
+15:13:55  [Apache] 	Status change detected: stopped
+15:30:45  [Apache] 	Status change detected: running
+15:33:34  [Apache] 	Status change detected: stopped
+15:39:05  [main] 	Deinitializing Modules
+15:39:05  [main] 	Deinitializing Control Panel
+
+15:30:42  [main] 	Initializing Control Panel
+15:30:42  [main] 	Windows Version:  Home  64-bit
+15:30:42  [main] 	XAMPP Version: 7.3.14
+15:30:42  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:30:42  [main] 	You are not running with administrator rights! This will work for
+15:30:42  [main] 	most application stuff but whenever you do something with services
+15:30:42  [main] 	there will be a security dialogue or things will break! So think 
+15:30:42  [main] 	about running this application with administrator rights!
+15:30:42  [main] 	XAMPP Installation Directory: "c:\users\jaime\onedrive\escritorio\portable\xampp\"
+15:30:42  [main] 	Checking for prerequisites
+15:30:42  [main] 	All prerequisites found
+15:30:42  [main] 	Initializing Modules
+15:30:42  [main] 	The FileZilla module is disabled
+15:30:42  [main] 	The Mercury module is disabled
+15:30:42  [main] 	Starting Check-Timer
+15:30:42  [main] 	Control Panel Ready
+15:30:44  [Apache] 	Attempting to start Apache app...
+15:30:45  [Apache] 	Status change detected: running
+15:33:33  [Apache] 	Attempting to stop Apache (PID: 7768)
+15:33:33  [Apache] 	Attempting to stop Apache (PID: 24264)
+15:33:33  [Apache] 	Status change detected: stopped
+15:39:07  [main] 	Deinitializing Modules
+15:39:07  [main] 	Deinitializing Control Panel
+

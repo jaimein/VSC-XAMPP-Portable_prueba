@@ -1,0 +1,26 @@
+{
+    "telemetry.machineId": "fa51c877e4d5c210fcdd9215b48b002ddcd8ec62aa30d3e4c443f58f133d9684",
+    "openedPathsList": {
+        "workspaces3": [
+            "file:///c%3A/Users/jaime/OneDrive/Escritorio/portable/xampp/htdocs/JSON/ejemplos"
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/jaime/OneDrive/Escritorio/portable/xampp/htdocs/JSON/ejemplos",
+            "backupPath": "c:\\Users\\jaime\\OneDrive\\Escritorio\\portable\\VSCode-win32-ia32-1.42.1\\data\\user-data\\Backups\\a35e430da026c98ff0cb4ccd6a6a0325",
+            "uiState": {
+                "mode": 1,
+                "x": 346,
+                "y": 216,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "C:\\Users\\jaime\\OneDrive\\Escritorio\\portable\\xampp\\htdocs\\JSON"
+}

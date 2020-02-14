@@ -1,0 +1,23 @@
+Xdebug could not open the remote debug file 'c:\tmp\
+xdebug\xdebug.log'.
+
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+
+DEBUG     The xdebug extension is loaded (2.9.1)
+
+DEBUG     Process restarting (PHPLS_ALLOW_XDEBUG=internal|2.9.1|0|*|*)
+DEBUG     Running C:\xampp\php\php.exe -n -c C:\Users\jaime\AppData\Local\Temp\E1BC.tmp c:\Users\jaime\OneDrive\Escritorio\portable\VSCode-win32-ia32-1.42.1\data\extensions\felixfbecker.php-intellisense-2.3.14\vendor\felixfbecker\language-server\bin\php-language-server.php --tcp=127.0.0.1:51188 --memory-limit=4095M
+
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     Restarted (81 ms). The xdebug extension is not loaded
+
+[Info  - 15:28:23] 3 files total
+[Info  - 15:28:23] Indexing project for definitions and static references
+Parsing file:///c:/Users/jaime/OneDrive/Escritorio/portable/xampp/htdocs/JSON/ejemplos/EjemploAPI.php
+Parsing file:///c:/Users/jaime/OneDrive/Escritorio/portable/xampp/htdocs/JSON/ejemplos/json1.php
+Parsing file:///c:/Users/jaime/OneDrive/Escritorio/portable/xampp/htdocs/JSON/ejemplos/json2.php
+[Info  - 15:28:23] Indexing project for dynamic references
+Parsing file:///c:/Users/jaime/OneDrive/Escritorio/portable/xampp/htdocs/JSON/ejemplos/json1.php
+Parsing file:///c:/Users/jaime/OneDrive/Escritorio/portable/xampp/htdocs/JSON/ejemplos/json2.php
+[Info  - 15:28:23] 0 Packages
+[Info  - 15:28:23] All 3 PHP files parsed in 0 seconds. 150 MiB allocated.

@@ -1,0 +1,14 @@
+[2020-02-14 15:22:31.513] [sharedprocess] [info] main {"machineId":"fa51c877e4d5c210fcdd9215b48b002ddcd8ec62aa30d3e4c443f58f133d9684","windowId":2}
+[2020-02-14 15:23:11.508] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-02-14 15:24:24.136] [sharedprocess] [info] Installing extension: felixfbecker.php-debug
+[2020-02-14 15:24:25.310] [sharedprocess] [info] Downloaded extension: felixfbecker.php-debug c:\Users\jaime\AppData\Local\Temp\f476b970-e3af-4bd5-af98-1c5af7a38c5c
+[2020-02-14 15:24:27.230] [sharedprocess] [info] Extracted extension to C:\Users\jaime\OneDrive\Escritorio\portable\VSCode-win32-ia32-1.42.1\data\extensions\.felixfbecker.php-debug-1.13.0: felixfbecker.php-debug
+[2020-02-14 15:24:27.244] [sharedprocess] [info] Renamed to C:\Users\jaime\OneDrive\Escritorio\portable\VSCode-win32-ia32-1.42.1\data\extensions\felixfbecker.php-debug-1.13.0
+[2020-02-14 15:24:27.254] [sharedprocess] [info] Installation completed. felixfbecker.php-debug
+[2020-02-14 15:24:27.263] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-debug
+[2020-02-14 15:24:45.384] [sharedprocess] [info] Installing extension: felixfbecker.php-intellisense
+[2020-02-14 15:24:46.529] [sharedprocess] [info] Downloaded extension: felixfbecker.php-intellisense c:\Users\jaime\AppData\Local\Temp\898fc948-d336-42b7-a5eb-d0a107effad0
+[2020-02-14 15:24:48.795] [sharedprocess] [info] Extracted extension to C:\Users\jaime\OneDrive\Escritorio\portable\VSCode-win32-ia32-1.42.1\data\extensions\.felixfbecker.php-intellisense-2.3.14: felixfbecker.php-intellisense
+[2020-02-14 15:24:48.824] [sharedprocess] [info] Renamed to C:\Users\jaime\OneDrive\Escritorio\portable\VSCode-win32-ia32-1.42.1\data\extensions\felixfbecker.php-intellisense-2.3.14
+[2020-02-14 15:24:48.831] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense
+[2020-02-14 15:24:48.834] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense
